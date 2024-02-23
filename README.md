@@ -24,41 +24,6 @@
 <img title="Followers" src="https://img.shields.io/github/followers/miftahganzz?color=red&style=flat-square">
 </a>
 
-<a href="https://github.com/miftahganzz/Telegram-Bot-Youtube/stargazers/">
-<img title="Stars" src="https://img.shields.io/github/stars/miftahganzz/Telegram-Bot-Youtube?color=blue&style=flat-square">
-</a
->
-<a href="https://github.com/miftahganzz/Telegram-Bot-Youtube/network/members">
-<img title="Forks" src="https://img.shields.io/github/forks/miftahganzz/Telegram-Bot-Youtube?color=red&style=flat-square">
-</a>
-
-<a href="https://github.com/miftahganzz/Telegram-Bot-Youtube/watchers">
-<img title="Watching" src="https://img.shields.io/github/watchers/miftahganzz/Telegram-Bot-Youtube?label=Watchers&color=blue&style=flat-square">
-</a>
-
-<a href="https://github.com/miftahganzz/Telegram-Bot-Youtube">
-<img title="Open Source" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103">
-</a>
-
-<a href="https://github.com/miftahganzz/Telegram-Bot-Youtube/">
-<img title="Size" src="https://img.shields.io/github/repo-size/miftahganzz/Telegram-Bot-Youtube?style=flat-square&color=green">
-</a>
-<a href="https://hits.seeyoufarm.com">
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmiftahganzz%2FTelegram-Bot-Youtube&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/>
-</a>
-
-<a href="https://github.com/miftahganzz/Telegram-Bot-Youtube/graphs/commit-activity">
-<img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
-</p>
-
-<p align="center">
-  <a href="https://github.com/miftahganzz/Telegram-Bot-Youtube#feature">Feature</a> •
- <a href="https://github.com/miftahganzz/Telegram-Bot-Youtube#howtoinstall">How To Install</a> •
-  <a href="https://github.com/miftahganzz/Telegram-Bot-Youtube#installing">Installing</a> •
-  <a href="https://github.com/miftahganzz/Telegram-Bot-Youtube#thanks-to">Thanks to</a> •
-  <a href="https://github.com/miftahganzz/Telegram-Bot-Youtube#donate">Donate</a>
-</p>
-</div>
 
 ----------
 # Feature
