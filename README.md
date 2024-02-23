@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0uzFzEpGE1pH5fwJSbPCVF5t_piVbNDIcc6fkIIrzD9s2G1iQZHJYvoKzBjNM0d-_YGU&usqp=CAU" alt="BOT TELEGRAM" width="400"/>
+<img src="https://btch.pages.dev/file/9e4162d4034241953fdfb.jpg" alt="BOT TELEGRAM" width="400"/>
 
  <p align="center">
     <a href="https://miftahganzz.github.io">
