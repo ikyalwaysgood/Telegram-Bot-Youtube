@@ -50,7 +50,7 @@ node index.js
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ikyalwaysgood/Telegram-Bot-Youtube)
 
 ### Run On Replit
-[![Run on Repl.it](https://repl.it/badge/github/miftah0908/Bot-Anonymous)](https://repl.it/github.com/ikyalwaysgood/Telegram-Bot-Youtube
+[![Run on Repl.it](https://repl.it/badge/github/miftah0908/Bot-Anonymous)](https://repl.it/github.com/ikyalwaysgood/Telegram-Bot-Youtube)
 
 ### Railway
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app?referralCode=miftah0908)
