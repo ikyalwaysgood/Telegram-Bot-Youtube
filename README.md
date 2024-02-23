@@ -116,14 +116,3 @@ module.exports = {
 </details>
 
 ----------
-## Donate
-- [Saweria](https://saweria.co/miftahganz)
-- [SociaBuzz](https://sociabuzz.com/miftahganz/tribe)
-- [Microsite](https://s.id/miftahbotz)
-- [Qris All Pay](https://telegra.ph/file/be286c967baac1546bd95.jpg)
-----------
-# Thanks to
-<a href="https://github.com/miftahganzz"><img src="https://github.com/miftahganzz.png?size=100" width="100" height="100"></a> | 
----|
-[Miftah GanzZ](https://github.com/miftahganzz)  |
-Developer |
