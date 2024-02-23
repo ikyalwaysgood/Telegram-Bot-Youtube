@@ -18,12 +18,6 @@
 </a>
   </p>
 
-<p align="center">
-
-<a href="https://github.com/miftahganzz/followers">
-<img title="Followers" src="https://img.shields.io/github/followers/miftahganzz?color=red&style=flat-square">
-</a>
-
 
 ----------
 # Feature
